@@ -6,8 +6,6 @@ A **Role-Based Access Control (RBAC) User Interface** built with **Next.js**, de
 1. [Features](#features)  
 2. [Tech Stack](#tech-stack)  
 3. [Installation](#installation)  
-4. [Usage](#usage)  
-5. [Contributing](#contributing)  
 
 ---
 
@@ -63,3 +61,4 @@ Follow these steps to run the project locally:
 5. Open your browser and navigate to:
    ```bash 
    http://localhost:3000    
+
