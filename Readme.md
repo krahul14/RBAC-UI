@@ -32,9 +32,8 @@ A **Role-Based Access Control (RBAC) User Interface** built with **Next.js**, de
 
 ## Tech Stack  
 
-- **Frontend**: [Next.js](https://nextjs.org/), [React.js](https://reactjs.org/)  
-- **Styling**: [Radix-UI](https://www.radix-ui.com/)  
-- **Backend (Optional)**: Node.js (for API integration, if used)  
+- **Frontend**: [Next.js](https://nextjs.org/)  
+- **Styling**: [Radix-UI](https://www.radix-ui.com/),[Tailwind CSS](https://tailwindcss.com/)
 
 ---
 
