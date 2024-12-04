@@ -33,7 +33,7 @@ A **Role-Based Access Control (RBAC) User Interface** built with **Next.js**, de
 ## Tech Stack  
 
 - **Frontend**: [Next.js](https://nextjs.org/)  
-- **Styling**: [Radix-UI](https://www.radix-ui.com/),[Tailwind CSS](https://tailwindcss.com/)
+- **Styling**: [Radix-UI](https://www.radix-ui.com/), [Tailwind CSS](https://tailwindcss.com/)
 
 ---
 
